@@ -1,0 +1,14 @@
+.liAdds {
+  margin: 10px;
+}
+.btn {
+  color: black;
+
+  width: 300px;
+  border-radius: 10px;
+  font-size: 40px;
+  background-color: white;
+  font-weight: bold;
+  padding: 20px;
+  border: 2px white solid;
+}

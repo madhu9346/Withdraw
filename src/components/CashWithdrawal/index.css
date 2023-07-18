@@ -1,0 +1,81 @@
+.con {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 50px;
+}
+.con1 {
+  background-color: #150b3e;
+  border-radius: 20px;
+  padding: 50px;
+  height: 700px;
+  width: 850px;
+}
+.con2 {
+  display: flex;
+}
+.head1 {
+  text-align: center;
+  background-color: #c7d2fe;
+  height: 70px;
+  width: 70px;
+  border-radius: 100vh;
+  color: black;
+  font-weight: bold;
+  margin: 10px;
+  padding: 10px;
+}
+.head2 {
+  color: aliceblue;
+  font-weight: bold;
+  font-family: Bree Serif;
+  margin-top: 25px;
+  font-size: 25px;
+}
+.para1 {
+  color: rgb(141, 134, 134);
+  font-size: 15px;
+  font-weight: bold;
+}
+.con3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.para2 {
+  color: rgb(141, 134, 134);
+  font-size: 25px;
+  margin-top: 30px;
+  font-weight: bold;
+  margin-right: 60px;
+}
+.con4 {
+  margin-left: 60px;
+}
+.head3 {
+  color: aliceblue;
+  font-weight: bold;
+  font-family: Bree Serif;
+  font-size: 60px;
+}
+.para {
+  color: rgb(141, 134, 134);
+  font-size: 15px;
+  font-weight: bold;
+}
+.subCon {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 10px;
+  list-style-type: none;
+}
+.head5 {
+  color: aliceblue;
+  font-weight: bold;
+  font-family: Bree Serif;
+  font-size: 35px;
+}
